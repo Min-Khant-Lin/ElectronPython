@@ -1,0 +1,18 @@
+{
+  "name": "ElectronPython",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./Test/RunPythonFromNodeJs/index.js",
+  "dependencies": {
+    "electron": "^15.0.0",
+    "express": "^4.17.1",
+    "python-shell": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
